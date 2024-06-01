@@ -17,7 +17,7 @@ env:
 
 jobs:
   LLGP:
-    runs-on: [self-hosted, MBA-13, unraid]
+    runs-on: [self-hosted, MBA-13]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
