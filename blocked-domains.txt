@@ -1,7 +1,6 @@
-0.0.0.0 deviceenrollment.apple.com
-0.0.0.0 mdmenrollment.apple.com
-0.0.0.0 adservice.google.com
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
+||deviceenrollment.apple.com^
+||mdmenrollment.apple.com^
+||d3ward.github.io##.adbox.banner_ads.adsbox^
+||d3ward.github.io##.textads^
+||/pagead.js$domain=d3ward.github.io^
+||/widget/ads.^
