@@ -220,10 +220,9 @@
 ||notes-analytics-events.apple.com^
 
 ||deviceenrollment.apple.com^
-||mdmenrollment.apple.com
+||mdmenrollment.apple.com^
 
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
-
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
